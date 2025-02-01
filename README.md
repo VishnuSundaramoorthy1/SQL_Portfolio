@@ -1,7 +1,7 @@
 # SQL_Portfolio-PostgreSQL
 
 ## About  
-This repository contains **SQL queries** written for **data analysis, business insights, and database management**.  The queries cover a range of **SQL concepts**, including **joins, aggregations, window functions & subqueries**.
+This repository contains **SQL queries** cover a range of **SQL concepts**, including **joins, aggregations, window functions & subqueries**.
 
 The queries cover a range of SQL concepts, including:  
 - **Joins & Relationships**  
@@ -30,11 +30,3 @@ The queries cover a range of SQL concepts, including:
 📌 **Employee Data Management** – Salaries, promotions, ranking  
 📌 **Movie Database Analysis** – Film categorization, actor counts, rental trends  
 📌 **Business Intelligence Queries** – Division-wise salaries, high-value customers  
-
----
-
-## Usage  
-
-1️⃣ **Clone the repository**  
-   ```bash
-   git clone
