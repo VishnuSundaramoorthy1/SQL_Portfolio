@@ -7,9 +7,8 @@ The queries cover a range of SQL concepts, including:
 - **Joins & Relationships**  
 - **Aggregations & Grouping**  
 - **Window Functions**  
-- **Subqueries & CTEs**  
-- **Schema Modifications & Data Management**  
-
+- **Subqueries & CTEs**
+  
 ---
 
 ## Key Topics Covered  
@@ -20,7 +19,6 @@ The queries cover a range of SQL concepts, including:
 ✔️ **Filtering & Conditional Logic** – `WHERE`, `CASE`, `IS NULL`  
 ✔️ **Subqueries & CTEs** – `WITH`, **nested queries**  
 ✔️ **Data Modification** – `UPDATE`, `INSERT INTO`, `ALTER TABLE`  
-✔️ **Schema Management** – `CREATE TABLE`, `CREATE VIEW`, `CHECK CONSTRAINTS`  
 
 ---
 
