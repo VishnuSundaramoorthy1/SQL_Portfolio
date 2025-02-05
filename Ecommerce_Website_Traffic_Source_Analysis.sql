@@ -1,4 +1,10 @@
 /*
+This repository contains SQL queries for analyzing eCommerce traffic sources, conversion rates, and bid optimization using MySQL. 
+The queries are based on session data, order data, and user engagement metrics to derive insights into marketing performance.
+*/
+
+
+/*
 1. Traffic Sources Session Volume – Identifies the number of sessions per traffic source
 */
 
@@ -87,6 +93,7 @@ WHERE
         AND utm_source = 'gsearch'
         AND utm_campaign = 'nonbrand'
 GROUP BY 1, 2;
+
 
 /*
 6. Device Type Conversion Analysis – Compares session conversion rates across devices
